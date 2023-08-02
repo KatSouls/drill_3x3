@@ -1,0 +1,4 @@
+name: drill_3x3
+version: '${project.version}'
+main: ru.drill_3x3.Drill_3x3
+api-version: 1.20
